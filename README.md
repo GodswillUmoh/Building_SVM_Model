@@ -82,4 +82,13 @@ print(cm)
 accuracy_score(y_test, y_pred)
 ```
 
++ [See code in terminal, click to view](https://colab.research.google.com/drive/1bqJiqPrbSOFaNNIODRy3RcEiKD1iD0me#scrollTo=ObI5OUqIJvEn)
+
+## Quesions on SVM
+[Click to view Question](https://ibb.co/g79QnGB)
+
+### Answers
++ [See Answer One](https://ibb.co/D4MvSjD)
++ [See Answer Two](https://ibb.co/5Kzf972)
++ [See Answer Three](https://ibb.co/RSDcjYN)
 
